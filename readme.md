@@ -41,4 +41,5 @@ We will be crerating 2 classes for each plant leaf, i.e., diseased and healthy f
 - The model is created with 6 convolution layers and 2 dense layers.
 - The backend works on Fast API.
 - For an input image of 256x256, the output is the class to which the image belongs and it's medicinal uses.
-<!-- ![image](https://github.com/arghadeep23/Neural-Nexus/assets/91934528/af234b28-0adf-45d6-81f4-f510a166d74b) -->
+![image](https://github.com/TusharRGupta/MEDICINAL-LEAF-DETECTION/assets/115091805/8387ebaa-cbc4-4d2f-88ae-6d4fd6d86b50)
+
